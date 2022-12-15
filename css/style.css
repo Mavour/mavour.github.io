@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+body {
+    background-color: #381272;
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    margin-top: 40%;
+}
+.hide {
+    display: none;
+}
+.button-group {
+    margin-top: 10px;
+}
+.disclaimer {
+    margin-top: 20px;
+}
